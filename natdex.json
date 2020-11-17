@@ -1,7 +1,7 @@
 {
     "Pokemon": [
         {
-            "NationalNumber": "001",
+            "NationalNumber": 1,
             "Pokemon": "Bulbasaur",
             "Type1": "Grass",
             "Type2": "Poison",
@@ -25,7 +25,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "002",
+            "NationalNumber": 2,
             "Pokemon": "Ivysaur",
             "Type1": "Grass",
             "Type2": "Poison",
@@ -49,7 +49,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "003",
+            "NationalNumber": 3,
             "Pokemon": "Venusaur",
             "Type1": "Grass",
             "Type2": "Poison",
@@ -73,7 +73,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "004",
+            "NationalNumber": 4,
             "Pokemon": "Charmander",
             "Type1": "Fire",
             "Type2": "None",
@@ -97,7 +97,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "005",
+            "NationalNumber": 5,
             "Pokemon": "Charmeleon",
             "Type1": "Fire",
             "Type2": "None",
@@ -121,7 +121,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "006",
+            "NationalNumber": 6,
             "Pokemon": "Charizard",
             "Type1": "Fire",
             "Type2": "Flying",
@@ -145,7 +145,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "007",
+            "NationalNumber": 7,
             "Pokemon": "Squirtle",
             "Type1": "Water",
             "Type2": "None",
@@ -169,7 +169,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "008",
+            "NationalNumber": 8,
             "Pokemon": "Wartortle",
             "Type1": "Water",
             "Type2": "None",
@@ -193,7 +193,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "009",
+            "NationalNumber": 9,
             "Pokemon": "Blastoise",
             "Type1": "Water",
             "Type2": "None",
@@ -217,7 +217,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "010",
+            "NationalNumber": 10,
             "Pokemon": "Caterpie",
             "Type1": "Bug",
             "Type2": "None",
@@ -241,7 +241,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "011",
+            "NationalNumber": 11,
             "Pokemon": "Metapod",
             "Type1": "Bug",
             "Type2": "None",
@@ -265,7 +265,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "012",
+            "NationalNumber": 12,
             "Pokemon": "Butterfree",
             "Type1": "Bug",
             "Type2": "Flying",
@@ -289,7 +289,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "013",
+            "NationalNumber": 13,
             "Pokemon": "Weedle",
             "Type1": "Bug",
             "Type2": "Poison",
@@ -313,7 +313,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "014",
+            "NationalNumber": 14,
             "Pokemon": "Kakuna",
             "Type1": "Bug",
             "Type2": "Poison",
@@ -337,7 +337,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "015",
+            "NationalNumber": 15,
             "Pokemon": "Beedrill",
             "Type1": "Bug",
             "Type2": "Poison",
@@ -361,7 +361,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "016",
+            "NationalNumber": 16,
             "Pokemon": "Pidgey",
             "Type1": "Normal",
             "Type2": "Flying",
@@ -385,7 +385,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "017",
+            "NationalNumber": 17,
             "Pokemon": "Pidgeotto",
             "Type1": "Normal",
             "Type2": "Flying",
@@ -409,7 +409,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "018",
+            "NationalNumber": 18,
             "Pokemon": "Pidgeot",
             "Type1": "Normal",
             "Type2": "Flying",
@@ -433,7 +433,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "019",
+            "NationalNumber": 19,
             "Pokemon": "Rattata",
             "Type1": "Normal",
             "Type2": "None",
@@ -457,7 +457,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "020",
+            "NationalNumber": 20,
             "Pokemon": "Raticate",
             "Type1": "Normal",
             "Type2": "None",
@@ -481,7 +481,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "021",
+            "NationalNumber": 21,
             "Pokemon": "Spearow",
             "Type1": "Normal",
             "Type2": "Flying",
@@ -505,7 +505,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "022",
+            "NationalNumber": 22,
             "Pokemon": "Fearow",
             "Type1": "Normal",
             "Type2": "Flying",
@@ -529,7 +529,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "023",
+            "NationalNumber": 23,
             "Pokemon": "Ekans",
             "Type1": "Poison",
             "Type2": "None",
@@ -553,7 +553,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "024",
+            "NationalNumber": 24,
             "Pokemon": "Arbok",
             "Type1": "Poison",
             "Type2": "None",
@@ -577,7 +577,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "025",
+            "NationalNumber": 25,
             "Pokemon": "Pikachu",
             "Type1": "Electric",
             "Type2": "None",
@@ -601,7 +601,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "026",
+            "NationalNumber": 26,
             "Pokemon": "Raichu",
             "Type1": "Electric",
             "Type2": "None",
@@ -625,7 +625,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "027",
+            "NationalNumber": 27,
             "Pokemon": "Sandshrew",
             "Type1": "Ground",
             "Type2": "None",
@@ -649,7 +649,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "028",
+            "NationalNumber": 28,
             "Pokemon": "Sandslash",
             "Type1": "Ground",
             "Type2": "None",
@@ -673,7 +673,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "029",
+            "NationalNumber": 29,
             "Pokemon": "NidoranF",
             "Type1": "Poison",
             "Type2": "None",
@@ -697,7 +697,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "030",
+            "NationalNumber": 30,
             "Pokemon": "Nidorina",
             "Type1": "Poison",
             "Type2": "None",
@@ -721,7 +721,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "031",
+            "NationalNumber": 31,
             "Pokemon": "Nidoqueen",
             "Type1": "Poison",
             "Type2": "Ground",
@@ -745,7 +745,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "032",
+            "NationalNumber": 32,
             "Pokemon": "NidoranM",
             "Type1": "Poison",
             "Type2": "None",
@@ -769,7 +769,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "033",
+            "NationalNumber": 33,
             "Pokemon": "Nidorino",
             "Type1": "Poison",
             "Type2": "None",
@@ -793,7 +793,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "034",
+            "NationalNumber": 34,
             "Pokemon": "Nidoking",
             "Type1": "Poison",
             "Type2": "Ground",
@@ -817,7 +817,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "035",
+            "NationalNumber": 35,
             "Pokemon": "Clefairy",
             "Type1": "Fairy",
             "Type2": "None",
@@ -841,7 +841,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "036",
+            "NationalNumber": 36,
             "Pokemon": "Clefable",
             "Type1": "Fairy",
             "Type2": "None",
@@ -865,7 +865,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "037",
+            "NationalNumber": 37,
             "Pokemon": "Vulpix",
             "Type1": "Fire",
             "Type2": "None",
@@ -889,7 +889,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "038",
+            "NationalNumber": 38,
             "Pokemon": "Ninetales",
             "Type1": "Fire",
             "Type2": "None",
@@ -913,7 +913,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "039",
+            "NationalNumber": 39,
             "Pokemon": "Jigglypuff",
             "Type1": "Normal",
             "Type2": "Fairy",
@@ -937,7 +937,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "040",
+            "NationalNumber": 40,
             "Pokemon": "Wigglytuff",
             "Type1": "Normal",
             "Type2": "Fairy",
@@ -961,7 +961,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "041",
+            "NationalNumber": 41,
             "Pokemon": "Zubat",
             "Type1": "Poison",
             "Type2": "Flying",
@@ -985,7 +985,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "042",
+            "NationalNumber": 42,
             "Pokemon": "Golbat",
             "Type1": "Poison",
             "Type2": "Flying",
@@ -1009,7 +1009,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "043",
+            "NationalNumber": 43,
             "Pokemon": "Oddish",
             "Type1": "Grass",
             "Type2": "Poison",
@@ -1033,7 +1033,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "044",
+            "NationalNumber": 44,
             "Pokemon": "Gloom",
             "Type1": "Grass",
             "Type2": "Poison",
@@ -1057,7 +1057,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "045",
+            "NationalNumber": 45,
             "Pokemon": "Vileplume",
             "Type1": "Grass",
             "Type2": "Poison",
@@ -1081,7 +1081,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "046",
+            "NationalNumber": 46,
             "Pokemon": "Paras",
             "Type1": "Bug",
             "Type2": "Grass",
@@ -1105,7 +1105,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "047",
+            "NationalNumber": 47,
             "Pokemon": "Parasect",
             "Type1": "Bug",
             "Type2": "Grass",
@@ -1129,7 +1129,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "048",
+            "NationalNumber": 48,
             "Pokemon": "Venonat",
             "Type1": "Bug",
             "Type2": "Poison",
@@ -1153,7 +1153,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "049",
+            "NationalNumber": 49,
             "Pokemon": "Venomoth",
             "Type1": "Bug",
             "Type2": "Poison",
@@ -1177,7 +1177,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "050",
+            "NationalNumber": 50,
             "Pokemon": "Diglett",
             "Type1": "Ground",
             "Type2": "None",
@@ -1201,7 +1201,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "051",
+            "NationalNumber": 51,
             "Pokemon": "Dugtrio",
             "Type1": "Ground",
             "Type2": "None",
@@ -1225,7 +1225,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "052",
+            "NationalNumber": 52,
             "Pokemon": "Meowth",
             "Type1": "Normal",
             "Type2": "None",
@@ -1249,7 +1249,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "053",
+            "NationalNumber": 53,
             "Pokemon": "Persian",
             "Type1": "Normal",
             "Type2": "None",
@@ -1273,7 +1273,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "054",
+            "NationalNumber": 54,
             "Pokemon": "Psyduck",
             "Type1": "Water",
             "Type2": "None",
@@ -1297,7 +1297,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "055",
+            "NationalNumber": 55,
             "Pokemon": "Golduck",
             "Type1": "Water",
             "Type2": "None",
@@ -1321,7 +1321,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "056",
+            "NationalNumber": 56,
             "Pokemon": "Mankey",
             "Type1": "Fighting",
             "Type2": "None",
@@ -1345,7 +1345,7 @@
             "Fairy": 2
         },
         {
-            "NationalNumber": "057",
+            "NationalNumber": 57,
             "Pokemon": "Primeape",
             "Type1": "Fighting",
             "Type2": "None",
@@ -1369,7 +1369,7 @@
             "Fairy": 2
         },
         {
-            "NationalNumber": "058",
+            "NationalNumber": 58,
             "Pokemon": "Growlithe",
             "Type1": "Fire",
             "Type2": "None",
@@ -1393,7 +1393,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "059",
+            "NationalNumber": 59,
             "Pokemon": "Arcanine",
             "Type1": "Fire",
             "Type2": "None",
@@ -1417,7 +1417,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "060",
+            "NationalNumber": 60,
             "Pokemon": "Poliwag",
             "Type1": "Water",
             "Type2": "None",
@@ -1441,7 +1441,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "061",
+            "NationalNumber": 61,
             "Pokemon": "Poliwhirl",
             "Type1": "Water",
             "Type2": "None",
@@ -1465,7 +1465,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "062",
+            "NationalNumber": 62,
             "Pokemon": "Poliwrath",
             "Type1": "Water",
             "Type2": "Fighting",
@@ -1489,7 +1489,7 @@
             "Fairy": 2
         },
         {
-            "NationalNumber": "063",
+            "NationalNumber": 63,
             "Pokemon": "Abra",
             "Type1": "Psychic",
             "Type2": "None",
@@ -1513,7 +1513,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "064",
+            "NationalNumber": 64,
             "Pokemon": "Kadabra",
             "Type1": "Psychic",
             "Type2": "None",
@@ -1537,7 +1537,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "065",
+            "NationalNumber": 65,
             "Pokemon": "Alakazam",
             "Type1": "Psychic",
             "Type2": "None",
@@ -1561,7 +1561,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "066",
+            "NationalNumber": 66,
             "Pokemon": "Machop",
             "Type1": "Fighting",
             "Type2": "None",
@@ -1585,7 +1585,7 @@
             "Fairy": 2
         },
         {
-            "NationalNumber": "067",
+            "NationalNumber": 67,
             "Pokemon": "Machoke",
             "Type1": "Fighting",
             "Type2": "None",
@@ -1609,7 +1609,7 @@
             "Fairy": 2
         },
         {
-            "NationalNumber": "068",
+            "NationalNumber": 68,
             "Pokemon": "Machamp",
             "Type1": "Fighting",
             "Type2": "None",
@@ -1633,7 +1633,7 @@
             "Fairy": 2
         },
         {
-            "NationalNumber": "069",
+            "NationalNumber": 69,
             "Pokemon": "Bellsprout",
             "Type1": "Grass",
             "Type2": "Poison",
@@ -1657,7 +1657,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "070",
+            "NationalNumber": 70,
             "Pokemon": "Weepinbell",
             "Type1": "Grass",
             "Type2": "Poison",
@@ -1681,7 +1681,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "071",
+            "NationalNumber": 71,
             "Pokemon": "Victreebel",
             "Type1": "Grass",
             "Type2": "Poison",
@@ -1705,7 +1705,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "072",
+            "NationalNumber": 72,
             "Pokemon": "Tentacool",
             "Type1": "Water",
             "Type2": "Poison",
@@ -1729,7 +1729,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "073",
+            "NationalNumber": 73,
             "Pokemon": "Tentacruel",
             "Type1": "Water",
             "Type2": "Poison",
@@ -1753,7 +1753,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "074",
+            "NationalNumber": 74,
             "Pokemon": "Geodude",
             "Type1": "Rock",
             "Type2": "Ground",
@@ -1777,7 +1777,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "075",
+            "NationalNumber": 75,
             "Pokemon": "Graveler",
             "Type1": "Rock",
             "Type2": "Ground",
@@ -1801,7 +1801,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "076",
+            "NationalNumber": 76,
             "Pokemon": "Golem",
             "Type1": "Rock",
             "Type2": "Ground",
@@ -1825,7 +1825,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "077",
+            "NationalNumber": 77,
             "Pokemon": "Ponyta",
             "Type1": "Fire",
             "Type2": "None",
@@ -1849,7 +1849,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "078",
+            "NationalNumber": 78,
             "Pokemon": "Rapidash",
             "Type1": "Fire",
             "Type2": "None",
@@ -1873,7 +1873,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "079",
+            "NationalNumber": 79,
             "Pokemon": "Slowpoke",
             "Type1": "Water",
             "Type2": "Psychic",
@@ -1897,7 +1897,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "080",
+            "NationalNumber": 80,
             "Pokemon": "Slowbro",
             "Type1": "Water",
             "Type2": "Psychic",
@@ -1921,7 +1921,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "081",
+            "NationalNumber": 81,
             "Pokemon": "Magnemite",
             "Type1": "Electric",
             "Type2": "Steel",
@@ -1945,7 +1945,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "082",
+            "NationalNumber": 82,
             "Pokemon": "Magneton",
             "Type1": "Electric",
             "Type2": "Steel",
@@ -1969,7 +1969,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "083",
+            "NationalNumber": 83,
             "Pokemon": "Farfetchd",
             "Type1": "Normal",
             "Type2": "Flying",
@@ -1993,7 +1993,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "084",
+            "NationalNumber": 84,
             "Pokemon": "Doduo",
             "Type1": "Normal",
             "Type2": "Flying",
@@ -2017,7 +2017,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "085",
+            "NationalNumber": 85,
             "Pokemon": "Dodrio",
             "Type1": "Normal",
             "Type2": "Flying",
@@ -2041,7 +2041,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "086",
+            "NationalNumber": 86,
             "Pokemon": "Seel",
             "Type1": "Water",
             "Type2": "None",
@@ -2065,7 +2065,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "087",
+            "NationalNumber": 87,
             "Pokemon": "Dewgong",
             "Type1": "Water",
             "Type2": "Ice",
@@ -2089,7 +2089,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "088",
+            "NationalNumber": 88,
             "Pokemon": "Grimer",
             "Type1": "Poison",
             "Type2": "None",
@@ -2113,7 +2113,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "089",
+            "NationalNumber": 89,
             "Pokemon": "Muk",
             "Type1": "Poison",
             "Type2": "None",
@@ -2137,7 +2137,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "090",
+            "NationalNumber": 90,
             "Pokemon": "Shellder",
             "Type1": "Water",
             "Type2": "None",
@@ -2161,7 +2161,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "091",
+            "NationalNumber": 91,
             "Pokemon": "Cloyster",
             "Type1": "Water",
             "Type2": "Ice",
@@ -2185,7 +2185,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "092",
+            "NationalNumber": 92,
             "Pokemon": "Gastly",
             "Type1": "Ghost",
             "Type2": "Poison",
@@ -2209,7 +2209,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "093",
+            "NationalNumber": 93,
             "Pokemon": "Haunter",
             "Type1": "Ghost",
             "Type2": "Poison",
@@ -2233,7 +2233,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "094",
+            "NationalNumber": 94,
             "Pokemon": "Gengar",
             "Type1": "Ghost",
             "Type2": "Poison",
@@ -2257,7 +2257,7 @@
             "Fairy": 0.5
         },
         {
-            "NationalNumber": "095",
+            "NationalNumber": 95,
             "Pokemon": "Onix",
             "Type1": "Rock",
             "Type2": "Ground",
@@ -2281,7 +2281,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "096",
+            "NationalNumber": 96,
             "Pokemon": "Drowzee",
             "Type1": "Psychic",
             "Type2": "None",
@@ -2305,7 +2305,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "097",
+            "NationalNumber": 97,
             "Pokemon": "Hypno",
             "Type1": "Psychic",
             "Type2": "None",
@@ -2329,7 +2329,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "098",
+            "NationalNumber": 98,
             "Pokemon": "Krabby",
             "Type1": "Water",
             "Type2": "None",
@@ -2353,7 +2353,7 @@
             "Fairy": 1
         },
         {
-            "NationalNumber": "099",
+            "NationalNumber": 99,
             "Pokemon": "Kingler",
             "Type1": "Water",
             "Type2": "None",
@@ -5570,7 +5570,7 @@
         },
         {
             "NationalNumber": 233,
-            "Pokemon": "Porygon2",
+            "Pokemon": "Porygon2,
             "Type1": "Normal",
             "Type2": "None",
             "Normal": 1,
